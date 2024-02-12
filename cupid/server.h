@@ -20,4 +20,6 @@ public:
     int createServer();
 
     int listenToClients();
+
+    int closeServer();
 };
