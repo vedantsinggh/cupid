@@ -1,6 +1,9 @@
+# Personal Files
+TODO.md
+.vscode
+
 # Prerequisites
 *.d
-.vscode
 # Compiled Object files
 *.slo
 *.lo
