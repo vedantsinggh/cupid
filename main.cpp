@@ -1,8 +1,7 @@
-#include <iostream>
-#include "server.h"
+#include "cupid/server.h"
 
 int main(){
-	cupid::Server server;
-	server.getName();
-	return 0;
+    cupid cu;
+    cu.createServer();
+    while (1) cu.listenToClients();
 }
