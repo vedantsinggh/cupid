@@ -8,3 +8,5 @@ This library aims to provide easy socket and http connections
 - [DOCs on sockets](https://pubs.opengroup.org/onlinepubs/009696699/functions/xsh_chap02_10.html)
 
 - [Similar repo](https://github.com/Dungyichao/http_server)
+
+- [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
